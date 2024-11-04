@@ -40,7 +40,7 @@ header {
     background-color: lightgreen;
     
     height: 200px;
-    flex: 2 1 auto;
+    flex: 2  -1 auto;
 }
 
 .box3 {
@@ -57,6 +57,9 @@ header {
 .section-two {
     background-color: orangered;
     height: 700px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 
 }
 
