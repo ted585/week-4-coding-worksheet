@@ -167,7 +167,7 @@ button {
     font-size: large;
     padding: 10px;
     margin: 2px;
-    transition-duration: .4s;
+    transition-duration: .2s;
 }
 
 button:hover {
