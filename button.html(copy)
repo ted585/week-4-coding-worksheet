@@ -16,7 +16,6 @@
 
     <!--Header title and menu begin here-->
     <header>
-        <h1> Flexbox Rundown </h1> 
            <ul>
             <div class="container-navigation">
             <a href="#section-one"><button> 1.FlexGrow</button></a>
